@@ -50,8 +50,11 @@ public class Shuffler {
      * @param values is an array of integers simulating cards to be shuffled.
      */
     public static void perfectShuffle(int[] values) {
-		/* *** TO BE IMPLEMENTED IN ACTIVITY 3 *** */
+		for(){
+		    
+        }
     }
+
 
     /**
      * Apply an "efficient selection shuffle" to the argument.
